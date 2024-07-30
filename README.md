@@ -35,4 +35,4 @@ git tag -d v1.7
 
 image 
 
-![Logo](images/logo.png)
+![Logo](images/logo.jpg)
